@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "TensorFlow",
+        "into": "Google’s TensorFlow is an open-source and most popular deep learning library for research and production.",
+        "details": "This TensorFlow tutorial for beginners covers TensorFlow basics to advance topics like linear regression, classifier, create, train and evaluate a neural network like CNN, RNN, auto encoders etc with TensorFlow examples. Refer this Machine Learning TensorFlow tutorial, sequentially, one after the other, for maximum efficacy to learn TensorFlow. Learn Tensorflow basic concepts with this TensorFlow Deep Learning tutorial.",
+        "image": "https://miro.medium.com/max/696/0*H5Wus5XpvcszBYee.jpg"
+    },
+    {
+        "id": 2,
+        "name": "R Tutorial",
+        "into": "R is a programming language is widely used by data scientists and major corporations like Google, Airbnb, Facebook etc.",
+        "details": "R is a programming language and software environment for statistical analysis, graphics representation and reporting. R was created by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand, and is currently developed by the R Development Core Team. R is freely available under the GNU General Public License, and pre-compiled binary versions are provided for various operating systems like Linux, Windows and Mac. This programming language was named R, based on the first letter of first name of the two R authors (Robert Gentleman and Ross Ihaka), and partly a play on the name of the Bell Labs Language S.",
+        "image": "https://www.analytixlabs.co.in/blog/wp-content/uploads/2022/01/Banner-Image-2.png"
+    },
+    {
+        "id": 3,
+        "name": "NLTK Tutorial",
+        "into": "NLTK is a leading platform for building Python programs to work with human language data.",
+        "details": "Natural Language Processing (NLP) is a process of manipulating or understanding the text or speech by any software or machine. An analogy is that humans interact and understand each other’s views and respond with the appropriate answer. In NLP, this interaction, understanding, and response are made by a computer instead of a human",
+        "image": "https://vesolv.ru/wp-content/uploads/2021/09/NLTK-%D1%84%D0%BE%D0%BD-600-350.webp"
+    },
+    {
+        "id": 4,
+        "name": "Artificial Intelligence (AI)",
+        "into": "AI (Artificial Intelligence) is a machine’s ability to perform cognitive functions as humans do, such as perceiving, learning, reasoning, and solving problems.",
+        "details": "Nowadays, AI is used in almost all industries, giving a technological edge to all companies integrating AI at scale. According to McKinsey, AI has the potential to create 600 billion dollars of value in retail bring 50 per cent more incremental value in banking compared with other analytics techniques. In transport and logistics, the potential revenue jump is 89% more.",
+        "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Why-get-certified-in-Artificial-Intelligence.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Data Science",
+        "into": "Data science is the domain of study that deals with vast volumes of data using modern tools and techniques to find unseen patterns",
+        "details": "Data Science is the area of study which involves extracting insights from vast amounts of data using various scientific methods, algorithms, and processes. It helps you to discover hidden patterns from the raw data. The term Data Science has emerged because of the evolution of mathematical statistics, data analysis, and big data.",
+        "image": "https://thumbs.dreamstime.com/b/data-science-deep-learning-artificial-intelligence-analysis-internet-modern-technology-concept-130068639.jpg"
+    },
+    {
+        "id": 6,
+        "name": "PyTorch Tutorial",
+        "into": "PyTorch is an open-source Torch based Machine Learning library for natural language processing using Python. It is similar to NumPy but with powerful GPU support.",
+        "details": "n this pytorch tutorial, you will learn all the concepts from scratch. This tutorial covers basic to advanced topics like pytorch definition, advantages and disadvantages of pytorch, comparison, installation, pytorch framework, regression, and image classification. This pytorch tutorial is absolutely free.",
+        "image": "https://pyimagesearch.com/wp-content/uploads/2021/05/what_is_pytorch_header.png"
+    }
+]
